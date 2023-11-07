@@ -1,0 +1,12 @@
+pyopenssl
+pycryptodome
+requests
+flask
+hashlib
+random
+time
+decimal
+xml.dom.minidom
+urllib.parse
+datetime
+locale

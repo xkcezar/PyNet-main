@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: NETOPIA-Payments
+Version: 1.1
+Requires-Dist: pyopenssl
+Requires-Dist: pycryptodome
+Requires-Dist: requests
+Requires-Dist: flask
+Requires-Dist: hashlib
+Requires-Dist: random
+Requires-Dist: time
+Requires-Dist: decimal
+Requires-Dist: xml.dom.minidom
+Requires-Dist: urllib.parse
+Requires-Dist: datetime
+Requires-Dist: locale
